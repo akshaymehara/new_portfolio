@@ -1,4 +1,4 @@
-// import images
+"use client";
 import Hero_person from "./assets/images/Hero/person.png";
 
 import reactjs from "./assets/images/Skills/react.png";
